@@ -206,18 +206,4 @@ python main.py
 *   Local model accuracy is slightly lower than cloud LLMs.
 *   Designed for clarity and safety over aggression.
 
----
 
-## 🧠 Why This Design Is Important
-
-This project demonstrates:
-*   Real-world AI fallback strategies.
-*   Cost-aware LLM usage.
-*   Production-grade logging.
-*   Safe automation practices.
-*   AI-engineer mindset (not just API calls).
-
-✅ **Ideal for**:
-*   AI Engineer Intern assignments
-*   Automation demos
-*   AI + backend portfolio projects
