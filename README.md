@@ -7,7 +7,7 @@ It uses a hybrid AI classification approach combining cloud LLMs (Google Gemini)
 ## 🎯 What This Project Does
 
 *   **Scans files** in the root of Google Drive
-*   **Reads content** from PDFs, Google Docs, and Google Sheets
+*   **Reads content** from PDFs, Google Docs, Google Sheets, and image files (JPEG/PNG via OCR)
 *   **Understands file context** using AI
 *   **Automatically creates category folders**
 *   **Moves files** into the correct folders
